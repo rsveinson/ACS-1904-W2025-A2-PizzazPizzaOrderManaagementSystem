@@ -6,7 +6,8 @@
  */
 public enum Size
 {
-    SMALL(11, "Small", 13.0, 0.25), MEDIUM(13, "Medium", 15.0, 0.35), 
+    SMALL(11, "Small", 13.0, 0.25),
+    MEDIUM(13, "Medium", 15.0, 0.35), 
     LARGE(15, "Large", 17.0, 0.5),
     JUMBO(22, "Jumbo", 19.0, 0.75);
             
